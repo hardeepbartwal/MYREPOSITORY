@@ -1,0 +1,755 @@
+						body p {
+	line-height: 28px;
+}
+
+body p,
+h1,
+h1,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+.navbar-nav .active {
+	border-bottom: 2px solid white;
+}
+
+.navbar-inverse .btn {
+	padding: 10px;
+	width: 200px;
+	margin-top: -10px;
+}
+
+.navbar-inverse {
+	padding: 30px;
+}
+
+.navbar-brand img {
+	margin-top: -7px !important;
+}
+
+.navbar-inverse a i {
+	color: white !important;
+	margin-right: 10px;
+	font-size: 20px;
+	margin-top: 15px;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:hover {
+	background-color: transparent !important;
+}
+
+.navbar-collapse .btn-default {
+	background-color: transparent !important;
+	color: white !important;
+	margin-top: -8px !important;
+	border-radius: 20px !important;
+}
+
+.navbar-nav li:hover {
+	border-bottom: 2px solid white;
+}
+
+.navbar-collapse .btn-default:hover {
+	background-color: azure !important;
+	color: black !important;
+}
+
+.har1 {
+	text-align: center;
+	background-image: url(slider.jpg);
+	position: relative;
+	background-size: cover;
+	min-height: 100vh;
+	margin-top: -20px;
+	width: 100%;
+}
+
+.har1 h1 {
+	margin-top: 20%;
+	text-transform: uppercase;
+	color: white;
+	font-size: 63px;
+}
+
+.har1 .btn {
+	color: white;
+	width: 200px;
+	text-decoration: none !important;
+}
+
+.har1 button {
+	margin-top: 10px;
+}
+
+.har1 .btn-primary {
+	padding: 13px;
+	border-radius: 30px;
+	background-color: #1574d4;
+	;
+}
+
+.har1 .btn-primary:hover {
+	background-color: transparent !important;
+	border: 1px solid white;
+}
+
+.har1 .btn-link {
+	padding: 13px;
+	border-radius: 30px;
+	border: 1px solid white;
+}
+
+.har1 .btn-link:hover {
+	background-color: #1574d4;
+	color: white;
+}
+
+.har1 p {
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-size: 24px;
+}
+
+.har3 {
+	margin-top: 30%;
+}
+
+.har2 {
+	background-color: whitesmoke;
+}
+
+.har2 h1 {
+	color: #171151;
+}
+
+.har2 p {
+	font-size: 22px;
+	padding-right: 60px;
+}
+.har3 .har35{
+	font-size: 14px;
+}
+
+.har3 a {
+	display: block;
+	margin-top: 30px;
+	color: #171151;
+	font-size: 36px;
+	font-weight: bold;
+	text-decoration: none !important;
+}
+
+.har3 .btn {
+	width: 200px;
+	padding: 15px;
+}
+.har3 p{
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+.har3 .btn-primary {
+	margin-top: 20px;
+	border-radius: 30px !important;
+
+}
+.har3 {
+	margin-left: 20px;
+}
+.har2 i {
+	margin-right: 5px;
+	color: orange;
+	font-size: 14px;
+}
+
+.har2 p i:nth-child(5) {
+	margin-right: 20px !important;
+}
+
+.har4 {
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+
+.har4 h2 {
+	color: #171151;
+	font-weight: bold;
+}
+
+.har5 {
+	text-align: center;
+	margin-top: 50px;
+}
+.har6{
+	text-align: right;
+}
+.har36{
+	text-align: left;
+	margin-top: 30px;
+	padding-top: 70px;
+}
+
+.har5 h2 {
+	color: #111259;
+	font-weight: bold;
+}
+
+.har6 {
+	padding-top: 70px;
+	margin-top: 30px;
+}
+
+.har8 {
+    padding-top: 60px;
+}
+
+.har9 {
+    margin-top: 70px;
+    padding-top: 60px;
+}
+
+.har7 {
+	background-image: linear-gradient(90deg, #a1f89d, #8099f4);
+	padding: 90px;
+}
+
+.har7 h1 {
+	color: white;
+	padding-bottom: 50px;
+}
+
+.har7 p {
+	color: white;
+	font-size: 18px;
+	padding-bottom: 50px;
+}
+
+.har7 .btn {
+	font-weight: bold;
+	transition: all .3s ease-in;
+	width: 250px;
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 30px;
+	color: black;
+}
+
+.har7 .btn-info:hover {
+	background-color: blue;
+}
+
+.har8 {
+	text-align: center;
+	margin: 40px;
+}
+
+.har8 h1 {
+	color: #111259;
+}
+
+.har9 i {
+	font-size: 36px;
+	color: #478ba1;
+}
+
+.har9 {
+	margin-bottom: 20px;
+}
+
+.har9 p {
+	padding-bottom: 30px;
+}
+
+.har10 {
+	margin: 60px;
+}
+
+.har11 {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.har11 h1 {
+	font-size: 31px;
+	color: white;
+}
+
+.har11 p {
+	color: white;
+}
+
+.har11 {
+	background-image: radial-gradient(#999cb1, #777f8f, #626365);
+}
+
+.har11 .carousel-indicators {
+	margin-bottom: -60px !important;
+}
+
+.har11 .carousel {
+	padding: 40px;
+}
+
+.har12 {
+	text-align: center;
+	padding-top: 40px;
+}
+
+.har12 p {
+	padding-bottom: 40px;
+}
+
+.har12 h1 {
+	color: #14133a;
+}
+
+.har13 p {
+	padding-bottom: 30px;
+}
+
+.har13 i {
+	font-size: 36px;
+	color: #7678bf;
+}
+
+.har13 img {
+	height: 500px;
+}
+
+.har14 {
+	padding-top: 50px;
+	padding-bottom: 90px;
+	text-align: center;
+	background-image: url(magic-bg.jpg);
+	background-size: 100% 100%;
+	position: relative;
+}
+
+.har14 button {
+	margin-top: 10px;
+}
+
+.har14 .btn-primary {
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.har14 .btn-primary:hover {
+	background-color: whitesmoke;
+	color: blue;
+}
+
+.har14 .btn-light {
+	border-radius: 20px;
+	padding: 10px;
+	color: blue;
+}
+
+.har14 .btn-light:hover {
+	background-color: blue;
+	color: white;
+}
+
+.har14 .btn {
+	width: 200px;
+}
+
+.har14 p {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 18px;
+}
+
+.har15 {
+	text-align: center;
+	padding: 40px;
+}
+
+.har16 {
+	text-align: center;
+	padding-bottom: 90px;
+	margin-bottom: 70px;
+}
+
+.har16 .carousel-indicators {
+	margin-bottom: -100px;
+}
+
+.har16 .carousel-indicators li {
+	background-color: grey;
+}
+
+.har16 p {
+	font-size: 18px;
+}
+
+.har16 .carousel-indicators li .active {
+	background-color: blue;
+}
+
+.har17 h1 {
+	color: white;
+}
+
+.har17 p {
+	color: white;
+}
+
+.har17 .carousel-indicators {
+	margin-bottom: -90px !important;
+}
+
+.har17 {
+	text-align: center;
+	padding-top: 50px;
+	position: relative;
+	background-image: url(related-pr-bg.jpg);
+	background-size: cover;
+	z-index: -1;
+	padding-bottom: 90px;
+}
+
+.har17:after {
+	background-image: linear-gradient(90deg, #969ceb, #9ceb96);
+	content: '';
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	opacity: 0.9;
+	z-index: -1;
+
+}
+
+.har19 h4 {
+	padding-top: 0px;
+	padding-bottom: 20px;
+	display: inline-block;
+}
+
+
+.har19 .btn {
+	width: 200px;
+}
+
+.har19 .btn-default {
+	padding: 10px;
+	border-radius: 20px;
+	display: block;
+	margin: auto;
+	color: blue !important;
+	border: 1px solid blue;
+}
+
+.har19 .btn-default:hover {
+	background-color: blue !important;
+}
+
+.har17 h4 {
+	color: orange;
+}
+
+.har19 a {
+	color: white;
+	background-color: deepskyblue;
+	padding: 10px 10px;
+	border-radius: 50%;
+	margin-right: -50px;
+}
+
+.har19 a:hover {
+	color: black !important;
+}
+
+.har18 {
+	text-decoration: line-through;
+	color: gray !important;
+	margin-right: 5px;
+}
+
+.har19 {
+	background-color: white;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.har20 {
+	padding-top: 30px;
+	text-align: center;
+}
+
+.har21 {
+	padding: 20px;
+}
+.har21 p{
+	margin-bottom: 30px;
+}
+
+.har21 .btn-primary {
+	display: block;
+	padding: 10px;
+	margin-top: 20px;
+	border-radius: 30px;
+}
+
+.har21 .btn {
+	width: 200px;
+}
+
+.har21 i {
+	color: blue;
+	margin-right: 15px;
+}
+
+.carousel-control.right {
+	background-image: none !important;
+}
+
+.carousel-control.left {
+	background-image: none !important;
+}
+
+/*.har21 .glyphicon-chevron-left {
+	font-size: 73px !important;
+	width: 0px !important;
+	margin-left: -20px !important;
+}
+
+.har21 .glyphicon-chevron-right {
+	font-size: 73px !important;
+	width: 0px !important;
+}*/
+
+.har21 a {
+	font-size: 24px;
+	margin-right: 10px;
+	color: grey;
+	text-decoration: none !important;
+}
+
+.har22 {
+	font-size: 18px;
+	color: #363636;
+}
+
+.har23 {
+	font-size: 24px;
+	color: skyblue;
+}
+
+.har24 h1 {
+	color: white;
+}
+
+.har24 {
+	background-image: url(promo-bg.jpg);
+	background-position: center;
+	position: relative;
+	background-size: cover;
+	padding: 80px;
+	text-align: center;
+}
+
+.har24 img {
+	padding: 80px;
+}
+
+.har25 {
+	background-color: #f5f5f5;
+	text-align: center;
+	padding: 40px;
+}
+
+.har25 a {
+	color: dimgrey;
+	text-decoration: none !important;
+	font-size: 14px;
+}
+
+.har25 h1 {
+	color: #232d76;
+}
+
+.har25 .btn {
+	width: 200px;
+
+}
+
+.har25 .btn-primary {
+	padding: 10px;
+	background-color: blue;
+	color: white;
+	border-radius: 30px;
+	margin-top: 20px;
+}
+
+
+.har26 {
+	background-color: white;
+	padding-bottom: 30px;
+	text-align: left;
+	margin-bottom: 40px;
+}
+
+.har27 {
+	padding: 20px 20px 20px 20px;
+}
+
+.har28 {
+	padding-bottom: 50px;
+}
+
+.har29 {
+	text-align: center;
+	padding: 20px;
+}
+
+.har30 h4 {
+	text-align: left;
+}
+
+.har30 ul {
+	margin-bottom: 50px;
+}
+
+.har30 ul li {
+	list-style: none;
+}
+
+.har30 ul {
+	margin-left: -39px;
+}
+
+.har31 {
+	background-color: #f2f6f6;
+	padding: 40px;
+}
+
+.har31 p {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.har31 h1 {
+	text-align: center;
+}
+
+.har31 h4 {
+	text-align: left;
+}
+
+.har31 h1 {
+	color: #1b1b56;
+}
+
+.har31 ul li {
+	list-style: none;
+}
+
+.har31 ul {
+	margin-bottom: 50px;
+	margin-left: -38px;
+}
+
+.har32 {
+	padding: 50px;
+	text-align: center;
+}
+
+.har32 i {
+	color: blue;
+	border: 1px solid #eaeaea;
+	padding: 20px 20px;
+	border-radius: 50%;
+	margin: 20px;
+}
+
+.har32 i:hover {
+	background-color: #4357b9;
+	color: white;
+	transition: all .3s ease-in;
+}
+
+.har33 {
+	padding: 50px;
+	background-color: #3b3b3b;
+}
+
+.har33 a {
+	color: white;
+}
+
+.har33 h4 {
+	color: white;
+}
+
+.har33 img {
+	margin-bottom: 10px;
+}
+
+.har33 p {
+	color: #8e8e8e;
+	padding-bottom: 20px;
+}
+
+.har33 i {
+	margin-right: 10px;
+
+	color: white;
+}
+
+.har33 ul li {
+	list-style: none;
+	display: inline;
+	margin-right: 5px;
+}
+
+.har33 ul {
+	margin-left: -40px;
+}
+
+.har34 {
+	padding: 10px;
+	background-color: #3b3737;
+}
+
+.har34 p {
+	color: #a2a2a2;
+}
+
+.har34 a {
+	text-decoration: none !important;
+	color: #a2a2a2;
+}
+
+.har34 a:hover {
+	color: #6790f6;
+}
+
+.har34 ul li {
+	list-style: none;
+	display: inline;
+	margin-left: 60px;
+}
+
+.har34 ul {
+	margin-top: 5px;
+}
+
+.btn-default:hover {
+	background-color: white;
+}
+.har37 {
+	margin-left: 88px !important;
+}
